@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SSq4hmxu+YzP6osVHbGF4WGUHgpHd9F1e1fmuZvHPVKjaKs4rGCOA6m55gDlpXJq45DA61Ly1WxQ2OghajQ7qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jean Baptiste\\OneDrive - National University of Singapore\\Part time job\\Yard crane operations project\\YardBlockOperations_v3\\YardBlockOperations_v3\\YardBlockOperations_v3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jean Baptiste\\.nuget\\packages\\mathnet.numerics\\4.8.1\\mathnet.numerics.4.8.1.nupkg.sha512",
+    "C:\\Users\\Jean Baptiste\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Jean Baptiste\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jean Baptiste\\.nuget\\packages\\o2desnet\\3.7.1\\o2desnet.3.7.1.nupkg.sha512",
+    "C:\\Users\\Jean Baptiste\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

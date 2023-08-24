@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="O2DESNet" Version="3.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ILOG.Concert">
+      <HintPath>..\..\..\..\..\..\..\Program Files\IBM\ILOG\CPLEX_Studio2211\cplex\bin\x64_win64\ILOG.Concert.dll</HintPath>
+    </Reference>
+    <Reference Include="ILOG.CPLEX">
+      <HintPath>..\..\..\..\..\..\..\Program Files\IBM\ILOG\CPLEX_Studio2211\cplex\bin\x64_win64\ILOG.CPLEX.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
